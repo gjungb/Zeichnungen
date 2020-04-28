@@ -1,1 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T17:06:17.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" version="13.0.2" etag="pTL6N_jcbFRdbNYVxbvF" type="github"><diagram id="Ho8VAHYG3lkEXBfdayqU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-28T17:06:50.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="ET9QPAOa01RJQmId0UoV" version="13.0.2" type="github" pages="2">
+  <diagram id="Ho8VAHYG3lkEXBfdayqU" name="Node.js">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yxlfF5F4FSjM_si9yiWp" name="NestJS Bausteine">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="x1H9AbXpJ0uxFj7ejRzN-0" />
+        <mxCell id="x1H9AbXpJ0uxFj7ejRzN-1" parent="x1H9AbXpJ0uxFj7ejRzN-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
