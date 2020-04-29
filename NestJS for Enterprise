@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T17:36:53.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="Qomp8xwMK60IiIQpisnW" version="13.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-29T10:09:48.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="4Xb5ONElffBWtntMEuNl" version="13.0.2" type="github" pages="3">
   <diagram id="Ho8VAHYG3lkEXBfdayqU" name="Node.js">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Lato^https://fonts.googleapis.com/css?family=Lato">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;font style=&quot;font-size: 32px&quot;&gt;V8&lt;/font&gt;" tooltip="V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++." id="sxCoKZBtc8Gyny7bxTd3-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=5;fillColor=#026E00;opacity=50;align=left;verticalAlign=top;spacingLeft=0;fontFamily=Lato;FType=g;spacing=12;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="240" y="160" width="400" height="400" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -12,6 +17,44 @@
       <root>
         <mxCell id="x1H9AbXpJ0uxFj7ejRzN-0" />
         <mxCell id="x1H9AbXpJ0uxFj7ejRzN-1" parent="x1H9AbXpJ0uxFj7ejRzN-0" />
+        <mxCell id="6CGA7XViTp6pGeR2vw14-3" value="&lt;font style=&quot;font-size: 32px&quot;&gt;@Module&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#EA2845;opacity=50;align=center;verticalAlign=middle;horizontal=1;spacingTop=2;strokeWidth=5;fontColor=#000000;" vertex="1" parent="x1H9AbXpJ0uxFj7ejRzN-1">
+          <mxGeometry x="570" y="240" width="300" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yLIcM5rXoqUX0DDeA4sH" name="Scratchpad">
+    <mxGraphModel dx="3452" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
+      <root>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-0" />
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-1" parent="rG64LUssHxFlfIUsc4Sk-0" />
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-16" value="" style="group" vertex="1" connectable="0" parent="rG64LUssHxFlfIUsc4Sk-1">
+          <mxGeometry x="400" y="80" width="520" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;Node.js&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=5;fillColor=#026E00;opacity=50;align=left;verticalAlign=top;spacingLeft=0;fontFamily=Fira Code;FType=g;spacing=12;fontColor=#000000;shadow=0;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-16">
+          <mxGeometry width="520" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-8" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;V8&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=5;fillColor=#026E00;opacity=50;align=left;verticalAlign=top;spacingLeft=0;fontFamily=Fira Code;FType=g;spacing=12;fontColor=#000000;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-16">
+          <mxGeometry x="80" y="240" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-10" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;libuv&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=5;fillColor=#026E00;opacity=50;align=left;verticalAlign=top;spacingLeft=0;fontFamily=Fira Code;FType=g;spacing=12;fontColor=#000000;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-16">
+          <mxGeometry x="280" y="240" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;API&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=5;fillColor=#026E00;opacity=50;align=left;verticalAlign=top;spacingLeft=0;fontFamily=Fira Code;FType=g;spacing=12;fontColor=#000000;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-16">
+          <mxGeometry x="80" y="80" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-18" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;Client&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=5;fillColor=#1C0B6E;opacity=50;align=left;verticalAlign=top;spacingLeft=0;fontFamily=Fira Code;FType=g;spacing=12;fontColor=#000000;shadow=0;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-1">
+          <mxGeometry y="80" width="240" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-20" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;OS&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=5;fillColor=#6E350B;opacity=50;align=left;verticalAlign=top;spacingLeft=0;fontFamily=Fira Code;FType=g;spacing=12;fontColor=#000000;shadow=0;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-1">
+          <mxGeometry x="1080" y="80" width="440" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-22" value="&lt;font face=&quot;Fira Code&quot; style=&quot;font-size: 18px&quot; color=&quot;#ffffff&quot;&gt;Request&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#000000;strokeWidth=5;fillColor=#1C0B6E;fontColor=#000000;opacity=50;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-1">
+          <mxGeometry x="240" y="200" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rG64LUssHxFlfIUsc4Sk-23" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;Response&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;strokeColor=#000000;strokeWidth=5;fillColor=#026E00;fontColor=#000000;opacity=50;" vertex="1" parent="rG64LUssHxFlfIUsc4Sk-1">
+          <mxGeometry x="240" y="480" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
