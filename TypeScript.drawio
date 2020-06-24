@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T06:16:25.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="uNrtFNJZdz2Jy05WblnZ" version="13.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-24T06:16:46.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="y2LVh17dU2IqE-bAtZYG" version="13.3.1" type="github" pages="4">
   <diagram id="UzC7-LFhFNzbWWkzW2w3" name="Die Gene von JavaScript">
     <mxGraphModel dx="946" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Roboto^https://fonts.googleapis.com/css?family=Roboto|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans">
       <root>
@@ -31,6 +31,14 @@
             <mxGeometry x="110" y="-70" width="740" height="740" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bzKlrHnCwBYonJbPBm2j" name="JS / ES / TS">
+    <mxGraphModel dx="946" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="kOwpRR4sZoT1yzOeRNBn-0" />
+        <mxCell id="kOwpRR4sZoT1yzOeRNBn-1" parent="kOwpRR4sZoT1yzOeRNBn-0" />
       </root>
     </mxGraphModel>
   </diagram>
