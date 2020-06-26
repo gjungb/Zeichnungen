@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-26T08:21:59.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="M0YSYRTaTlkXjUFiPBa1" version="13.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-26T10:00:07.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="sXj76tdwHwzXHN7mjiVe" version="13.3.0" type="github" pages="5">
   <diagram id="UzC7-LFhFNzbWWkzW2w3" name="Die Gene von JavaScript">
     <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code|Lato^https://fonts.googleapis.com/css?family=Lato|Roboto^https://fonts.googleapis.com/css?family=Roboto|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="-zIaNXF0FWcu5_l1LjiO-0" value="@Component" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=20;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=top;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
           <mxGeometry x="204" y="140" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="_ynVYw9CkxoSSAdwQUYI-0" value="@Directive" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=20;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=top;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
+          <mxGeometry x="414" y="140" width="210" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
