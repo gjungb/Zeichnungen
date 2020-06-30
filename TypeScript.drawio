@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-30T14:45:20.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="X6XMNBC2X5RBPQlsj9xs" version="13.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-30T14:46:10.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="viRIGG3pIxybR6jrUvOy" version="13.0.8" type="github" pages="5">
   <diagram id="UzC7-LFhFNzbWWkzW2w3" name="Die Gene von JavaScript">
     <mxGraphModel dx="946" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code|Lato^https://fonts.googleapis.com/css?family=Lato|Roboto^https://fonts.googleapis.com/css?family=Roboto|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans">
       <root>
@@ -36,7 +36,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ahxa_7Z1dyoWvUU_nvnM" name="Angular">
-    <mxGraphModel dx="1148" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jBgbIuI6AMPZR0mEnXtF-0" />
         <mxCell id="jBgbIuI6AMPZR0mEnXtF-1" parent="jBgbIuI6AMPZR0mEnXtF-0" />
@@ -58,8 +58,11 @@
         <mxCell id="ajlQTBv0rp3n38Mc6ygl-1" value="HttpClientModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
           <mxGeometry y="420" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="O7_FRkBmG0F5C3wJo-e_-0" value="FormsModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
+        <mxCell id="O7_FRkBmG0F5C3wJo-e_-0" value="FormsModule&lt;br&gt;ReactiveFormsModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
           <mxGeometry x="620" y="430" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="84A86jhDPQew2qcjbpvi-0" value="RouterModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
+          <mxGeometry x="620" y="-70" width="190" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
