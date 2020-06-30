@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T14:40:24.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="SKNOCWs-1dQTSp3Y3YJt" version="13.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-30T14:45:20.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="X6XMNBC2X5RBPQlsj9xs" version="13.0.8" type="github" pages="5">
   <diagram id="UzC7-LFhFNzbWWkzW2w3" name="Die Gene von JavaScript">
-    <mxGraphModel dx="946" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code|Lato^https://fonts.googleapis.com/css?family=Lato|Roboto^https://fonts.googleapis.com/css?family=Roboto|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans">
+    <mxGraphModel dx="946" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code|Lato^https://fonts.googleapis.com/css?family=Lato|Roboto^https://fonts.googleapis.com/css?family=Roboto|Noto Sans^https://fonts.googleapis.com/css?family=Noto+Sans">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,55 +11,32 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EpCnXotftBlN4GjIx48I" name="JavaScript VMs">
-    
-    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
-      
+    <mxGraphModel dx="946" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
-        
         <mxCell id="zrHnNLyq27waXcJ57A72-0" />
-        
         <mxCell id="zrHnNLyq27waXcJ57A72-1" parent="zrHnNLyq27waXcJ57A72-0" />
-        
         <mxCell id="aOPywPN1WrlG0ZpUdmKo-0" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse ; font-size: 20px ; background-color: rgb(247 , 223 , 30) ; border: 1px solid rgb(0 , 0 , 0)&quot;&gt;&lt;tbody style=&quot;font-size: 20px&quot;&gt;&lt;tr style=&quot;font-size: 20px&quot;&gt;&lt;th align=&quot;left&quot; style=&quot;font-size: 20px&quot;&gt;&lt;a href=&quot;https://v8.dev/&quot;&gt;V8&lt;/a&gt;&lt;/th&gt;&lt;th align=&quot;left&quot; style=&quot;font-size: 20px&quot;&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey&quot;&gt;SpiderMonkey&lt;/a&gt;&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;&lt;a href=&quot;https://developer.apple.com/documentation/javascriptcore&quot;&gt;JavaScriptCore&lt;/a&gt;&lt;br&gt;&lt;/th&gt;&lt;td&gt;&lt;a href=&quot;https://github.com/microsoft/ChakraCore&quot;&gt;ChakraCore&lt;/a&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 20px&quot;&gt;&lt;td style=&quot;font-size: 20px&quot;&gt;Google&lt;/td&gt;&lt;td style=&quot;font-size: 20px&quot;&gt;Mozilla&lt;/td&gt;&lt;td style=&quot;font-size: 20px&quot;&gt;Apple&lt;/td&gt;&lt;td&gt;Microsoft&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;rounded=0;fontFamily=Noto Sans;FType=g;fontSize=20;labelBackgroundColor=#F7DF1E;labelBorderColor=none;strokeColor=none;fillColor=none;glass=0;" parent="zrHnNLyq27waXcJ57A72-1" vertex="1">
-          
           <mxGeometry x="40" y="40" width="640" height="320" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
   <diagram id="bzKlrHnCwBYonJbPBm2j" name="JS / ES / TS">
-    
-    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
-      
+    <mxGraphModel dx="946" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
-        
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-0" />
-        
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-1" parent="kOwpRR4sZoT1yzOeRNBn-0" />
-        
-        <mxCell id="zvGlFFVRIiKLJRZCXVUM-0" value="TS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#187abf;fontSize=32;fontColor=#FFFFFF;align=right;fontFamily=Fira Code;spacingRight=20;" vertex="1" parent="kOwpRR4sZoT1yzOeRNBn-1">
-          
+        <mxCell id="zvGlFFVRIiKLJRZCXVUM-0" value="TS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#187abf;fontSize=32;fontColor=#FFFFFF;align=right;fontFamily=Fira Code;spacingRight=20;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
           <mxGeometry x="240" y="10" width="480" height="480" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="zvGlFFVRIiKLJRZCXVUM-1" value="ES3, ES5, ES20XX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;" vertex="1" parent="kOwpRR4sZoT1yzOeRNBn-1">
-          
+        <mxCell id="zvGlFFVRIiKLJRZCXVUM-1" value="ES3, ES5, ES20XX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
           <mxGeometry x="240" y="100" width="280" height="280" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
   <diagram id="ahxa_7Z1dyoWvUU_nvnM" name="Angular">
-    <mxGraphModel dx="946" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jBgbIuI6AMPZR0mEnXtF-0" />
         <mxCell id="jBgbIuI6AMPZR0mEnXtF-1" parent="jBgbIuI6AMPZR0mEnXtF-0" />
@@ -81,11 +58,14 @@
         <mxCell id="ajlQTBv0rp3n38Mc6ygl-1" value="HttpClientModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
           <mxGeometry y="420" width="190" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="O7_FRkBmG0F5C3wJo-e_-0" value="FormsModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="jBgbIuI6AMPZR0mEnXtF-1">
+          <mxGeometry x="620" y="430" width="190" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="u3TcHS6ccKbTL2NqR-_o" name="Scratchpad">
-    <mxGraphModel dx="946" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
+    <mxGraphModel dx="1148" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
       <root>
         <mxCell id="z1SK4lPGxJ5rGH3-lqOU-0" />
         <mxCell id="z1SK4lPGxJ5rGH3-lqOU-1" parent="z1SK4lPGxJ5rGH3-lqOU-0" />
