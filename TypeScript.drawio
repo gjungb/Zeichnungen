@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T12:23:29.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="1KBBLMkUWBGFr8RAck3S" version="13.0.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-07-24T19:33:01.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="RJM6FzitDNCYBBjhaORM" version="13.5.3" type="github" pages="3">
   <diagram id="bzKlrHnCwBYonJbPBm2j" name="JS / ES / TS">
-    <mxGraphModel dx="870" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-0" />
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-1" parent="kOwpRR4sZoT1yzOeRNBn-0" />
         <mxCell id="zvGlFFVRIiKLJRZCXVUM-0" value="TS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#187abf;fontSize=32;fontColor=#FFFFFF;align=right;fontFamily=Fira Code;spacingRight=20;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
-          <mxGeometry x="240" y="10" width="480" height="480" as="geometry" />
+          <mxGeometry x="240" y="-40" width="560" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="zvGlFFVRIiKLJRZCXVUM-1" value="ES3, ES5, ES20XX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
-          <mxGeometry x="240" y="100" width="280" height="280" as="geometry" />
+        <mxCell id="I-Nh13_OBQzH4jH-xl1_-3" value="ES20XX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" vertex="1" parent="kOwpRR4sZoT1yzOeRNBn-1">
+          <mxGeometry x="230" y="15" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="I-Nh13_OBQzH4jH-xl1_-2" value="ES2015" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" vertex="1" parent="kOwpRR4sZoT1yzOeRNBn-1">
+          <mxGeometry x="230" y="90" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="I-Nh13_OBQzH4jH-xl1_-1" value="ES5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" vertex="1" parent="kOwpRR4sZoT1yzOeRNBn-1">
+          <mxGeometry x="230" y="165" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zvGlFFVRIiKLJRZCXVUM-1" value="ES3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=left;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
+          <mxGeometry x="230" y="205" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
