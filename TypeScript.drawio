@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T07:11:46.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="YLqjda3UsrtlR7qa9vPL" version="13.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-08-19T10:54:13.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="FPP8G4HiCKdbosH0i3EQ" version="13.6.2" type="github" pages="5">
   <diagram name="Scratchpad" id="7HkAElxsfawMTIeyFdLx">
-    <mxGraphModel dx="946" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aeAdwHv2rmL8GYwMYlaK-0" />
         <mxCell id="aeAdwHv2rmL8GYwMYlaK-1" parent="aeAdwHv2rmL8GYwMYlaK-0" />
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aeAdwHv2rmL8GYwMYlaK-1" source="f6nB8Kj_Q7eyI3Fh3Yv4-0" target="y0X6sXxEHHc3tLNSbZsa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f6nB8Kj_Q7eyI3Fh3Yv4-0" value="rola-root" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFFFCC;fontFamily=Fira Code;fontSize=16;fontColor=#000000;opacity=70;align=center;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
           <mxGeometry x="340" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="aeAdwHv2rmL8GYwMYlaK-1" source="y0X6sXxEHHc3tLNSbZsa-0" target="f6nB8Kj_Q7eyI3Fh3Yv4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-0" value="rola-color-form" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFFFCC;fontFamily=Fira Code;fontSize=16;fontColor=#000000;opacity=70;align=center;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
+          <mxGeometry x="190" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aeAdwHv2rmL8GYwMYlaK-1" source="y0X6sXxEHHc3tLNSbZsa-1" target="y0X6sXxEHHc3tLNSbZsa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-1" value="rola-led-list" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFFFCC;fontFamily=Fira Code;fontSize=16;fontColor=#000000;opacity=70;align=center;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
+          <mxGeometry x="490" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-3" value="rola-led" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFFFCC;fontFamily=Fira Code;fontSize=16;fontColor=#000000;opacity=70;align=center;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
+          <mxGeometry x="490" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aeAdwHv2rmL8GYwMYlaK-1" source="y0X6sXxEHHc3tLNSbZsa-5" target="f6nB8Kj_Q7eyI3Fh3Yv4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y0X6sXxEHHc3tLNSbZsa-5" value="rola-controls" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFFFCC;fontFamily=Fira Code;fontSize=16;fontColor=#000000;opacity=70;align=center;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
+          <mxGeometry x="340" y="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -55,49 +79,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bzKlrHnCwBYonJbPBm2j" name="JS / ES / TS">
-    
-    <mxGraphModel dx="1426" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
-      
+    <mxGraphModel dx="946" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
-        
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-0" />
-        
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-1" parent="kOwpRR4sZoT1yzOeRNBn-0" />
-        
         <mxCell id="zvGlFFVRIiKLJRZCXVUM-0" value="TS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#187abf;fontSize=32;fontColor=#FFFFFF;align=right;fontFamily=Fira Code;spacingRight=20;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
-          
           <mxGeometry x="240" y="-40" width="560" height="560" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I-Nh13_OBQzH4jH-xl1_-3" value="ES20XX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
-          
           <mxGeometry x="230" y="15" width="450" height="450" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I-Nh13_OBQzH4jH-xl1_-2" value="ES2015" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
-          
           <mxGeometry x="230" y="90" width="300" height="300" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="I-Nh13_OBQzH4jH-xl1_-1" value="ES5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
-          
           <mxGeometry x="230" y="165" width="150" height="150" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="zvGlFFVRIiKLJRZCXVUM-1" value="ES3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=left;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
-          
           <mxGeometry x="230" y="205" width="70" height="70" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
   <diagram id="ahxa_7Z1dyoWvUU_nvnM" name="Module">
     <mxGraphModel dx="946" dy="1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -132,24 +134,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QtnIsEUqfTFUk3QCOo-g" name="engawa">
-    
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
-      
+    <mxGraphModel dx="946" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
       <root>
-        
         <mxCell id="rgNfoqyqW84PFh3Piu4q-0" />
-        
         <mxCell id="rgNfoqyqW84PFh3Piu4q-1" parent="rgNfoqyqW84PFh3Piu4q-0" />
-        
         <mxCell id="rgNfoqyqW84PFh3Piu4q-2" value="engawa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;FType=g;fontSize=96;" parent="rgNfoqyqW84PFh3Piu4q-1" vertex="1">
-          
           <mxGeometry x="390" y="300" width="40" height="20" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
