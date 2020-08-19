@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T10:55:03.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="1cPznpBbKGHrMxipiys5" version="13.5.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-08-19T07:03:40.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="-BUZVfX8P-Phi8ESvIBE" version="13.6.2" type="github" pages="5">
   <diagram name="Scratchpad" id="7HkAElxsfawMTIeyFdLx">
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aeAdwHv2rmL8GYwMYlaK-0" />
         <mxCell id="aeAdwHv2rmL8GYwMYlaK-1" parent="aeAdwHv2rmL8GYwMYlaK-0" />
-        <mxCell id="aeAdwHv2rmL8GYwMYlaK-2" value="@Module" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=32;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=top;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="aeAdwHv2rmL8GYwMYlaK-1" vertex="1">
+        <mxCell id="aeAdwHv2rmL8GYwMYlaK-2" value="@NgModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=32;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=top;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="aeAdwHv2rmL8GYwMYlaK-1" vertex="1">
           <mxGeometry x="170" y="20" width="480" height="480" as="geometry" />
         </mxCell>
         <mxCell id="aeAdwHv2rmL8GYwMYlaK-3" value="@Component" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="aeAdwHv2rmL8GYwMYlaK-1" vertex="1">
@@ -22,11 +22,20 @@
         <mxCell id="MJhYSOCrIyK8Vdi-2vLk-0" value="HttpClientModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="aeAdwHv2rmL8GYwMYlaK-1" vertex="1">
           <mxGeometry x="30" y="520" width="180" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="Ypk_525BiGmJ8V4TGl4N-0" value="FormsModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
+          <mxGeometry x="620" y="520" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypk_525BiGmJ8V4TGl4N-1" value="ReactiveFormsModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
+          <mxGeometry x="420" y="520" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ypk_525BiGmJ8V4TGl4N-2" value="RouterModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" vertex="1" parent="aeAdwHv2rmL8GYwMYlaK-1">
+          <mxGeometry x="220" y="520" width="180" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="u3TcHS6ccKbTL2NqR-_o" name="Komponentenbaum">
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
+    <mxGraphModel dx="946" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
       <root>
         <mxCell id="z1SK4lPGxJ5rGH3-lqOU-0" />
         <mxCell id="z1SK4lPGxJ5rGH3-lqOU-1" parent="z1SK4lPGxJ5rGH3-lqOU-0" />
@@ -70,69 +79,132 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bzKlrHnCwBYonJbPBm2j" name="JS / ES / TS">
+    
     <mxGraphModel dx="1426" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-0" />
+        
         <mxCell id="kOwpRR4sZoT1yzOeRNBn-1" parent="kOwpRR4sZoT1yzOeRNBn-0" />
+        
         <mxCell id="zvGlFFVRIiKLJRZCXVUM-0" value="TS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#187abf;fontSize=32;fontColor=#FFFFFF;align=right;fontFamily=Fira Code;spacingRight=20;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
+          
           <mxGeometry x="240" y="-40" width="560" height="560" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="I-Nh13_OBQzH4jH-xl1_-3" value="ES20XX" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
+          
           <mxGeometry x="230" y="15" width="450" height="450" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="I-Nh13_OBQzH4jH-xl1_-2" value="ES2015" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
+          
           <mxGeometry x="230" y="90" width="300" height="300" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="I-Nh13_OBQzH4jH-xl1_-1" value="ES5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=right;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
+          
           <mxGeometry x="230" y="165" width="150" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="zvGlFFVRIiKLJRZCXVUM-1" value="ES3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f7df1e;fontSize=32;fontFamily=Fira Code;align=left;" parent="kOwpRR4sZoT1yzOeRNBn-1" vertex="1">
+          
           <mxGeometry x="230" y="205" width="70" height="70" as="geometry" />
+          
         </mxCell>
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
   <diagram id="ahxa_7Z1dyoWvUU_nvnM" name="Module">
+    
     <mxGraphModel dx="1426" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="jBgbIuI6AMPZR0mEnXtF-0" />
+        
         <mxCell id="jBgbIuI6AMPZR0mEnXtF-1" parent="jBgbIuI6AMPZR0mEnXtF-0" />
+        
         <mxCell id="AC6yFyZTImTNVwZBDV3e-0" value="@Module" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=32;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=top;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry x="170" y="20" width="480" height="480" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="-zIaNXF0FWcu5_l1LjiO-0" value="@Component" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry x="220" y="100" width="150" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="_ynVYw9CkxoSSAdwQUYI-0" value="@Directive" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry x="440" y="100" width="150" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="uud_EPR3xU5L3ywMBhCe-0" value="@Pipe" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry x="220" y="270" width="150" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="ajlQTBv0rp3n38Mc6ygl-0" value="Service&lt;br&gt;@Injectable" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry x="440" y="280" width="150" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="ajlQTBv0rp3n38Mc6ygl-1" value="HttpClientModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry y="420" width="190" height="190" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="O7_FRkBmG0F5C3wJo-e_-0" value="FormsModule&lt;br&gt;ReactiveFormsModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry x="620" y="430" width="190" height="190" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="84A86jhDPQew2qcjbpvi-0" value="RouterModule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#DD0031;fontSize=16;fontColor=#FFFFFF;align=center;fontFamily=Fira Code;spacingRight=0;verticalAlign=middle;spacing=15;strokeColor=#FFFFFF;opacity=70;" parent="jBgbIuI6AMPZR0mEnXtF-1" vertex="1">
+          
           <mxGeometry x="620" y="-70" width="190" height="190" as="geometry" />
+          
         </mxCell>
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
   <diagram id="QtnIsEUqfTFUk3QCOo-g" name="engawa">
+    
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Fira Code^https://fonts.googleapis.com/css?family=Fira+Code">
+      
       <root>
+        
         <mxCell id="rgNfoqyqW84PFh3Piu4q-0" />
+        
         <mxCell id="rgNfoqyqW84PFh3Piu4q-1" parent="rgNfoqyqW84PFh3Piu4q-0" />
+        
         <mxCell id="rgNfoqyqW84PFh3Piu4q-2" value="engawa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;FType=g;fontSize=96;" parent="rgNfoqyqW84PFh3Piu4q-1" vertex="1">
+          
           <mxGeometry x="390" y="300" width="40" height="20" as="geometry" />
+          
         </mxCell>
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
 </mxfile>
